@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "title": "example 1",
+    "description": "this is a description",
+    "type": "transfer",
+    "properties": {
+      "from_addr": "5vkFwKVxAmZWgQ2b4xYJBdBzjkFvPxSCTdLeEs48BsGf",
+      "to_addr": "5vkFwKVxAmZWgQ2b4xYJBdBzjkFvPxSCTdLeEs48BsGf",
+      "token_addr": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "from_val": "10",
+      "to_val": "100"
+    }
+  },
+  {
+    "id": 2,
+    "title": "example 2",
+    "description": "this is a description",
+    "type": "transfer",
+    "properties": {
+      "from_addr": "5vkFwKVxAmZWgQ2b4xYJBdBzjkFvPxSCTdLeEs48BsGf",
+      "to_addr": "5vkFwKVxAmZWgQ2b4xYJBdBzjkFvPxSCTdLeEs48BsGf",
+      "token_addr": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "from_val": "1000",
+      "to_val": "2000"
+    }
+  }
+]
