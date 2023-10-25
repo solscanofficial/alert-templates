@@ -5,11 +5,11 @@
     "description": "this is a description",
     "type": "transfer",
     "properties": {
-      "from_addr": "5vkFwKVxAmZWgQ2b4xYJBdBzjkFvPxSCTdLeEs48BsGf",
-      "to_addr": "5vkFwKVxAmZWgQ2b4xYJBdBzjkFvPxSCTdLeEs48BsGf",
-      "token_addr": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
-      "from_val": "10",
-      "to_val": "100"
+      "from_add": "5vkFwKVxAmZWgQ2b4xYJBdBzjkFvPxSCTdLeEs48BsGf",
+      "to_add": "5vkFwKVxAmZWgQ2b4xYJBdBzjkFvPxSCTdLeEs48BsGf",
+      "token_add": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "from_val": 10,
+      "to_val": 100
     }
   },
   {
@@ -18,11 +18,11 @@
     "description": "this is a description",
     "type": "transfer",
     "properties": {
-      "from_addr": "5vkFwKVxAmZWgQ2b4xYJBdBzjkFvPxSCTdLeEs48BsGf",
-      "to_addr": "5vkFwKVxAmZWgQ2b4xYJBdBzjkFvPxSCTdLeEs48BsGf",
-      "token_addr": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
-      "from_val": "1000",
-      "to_val": "2000"
+      "from_add": "5vkFwKVxAmZWgQ2b4xYJBdBzjkFvPxSCTdLeEs48BsGf",
+      "to_add": "5vkFwKVxAmZWgQ2b4xYJBdBzjkFvPxSCTdLeEs48BsGf",
+      "token_add": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "from_val": 1000,
+      "to_val": 2000
     }
   }
 ]
